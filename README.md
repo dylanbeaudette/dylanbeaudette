@@ -1,5 +1,5 @@
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=dylanbeaudette)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=dylanbeaudette&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
