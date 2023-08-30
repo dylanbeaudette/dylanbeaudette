@@ -1,6 +1,4 @@
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=dylanbeaudette&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+Most of my work ends up here: https://github.com/ncss-tech/
 
 <!--
 **dylanbeaudette/dylanbeaudette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
